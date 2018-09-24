@@ -9,7 +9,7 @@ Below you can find a chart demonstrating the paths that I have taken and the lib
 
 ## Roadmap
 
-![Roadmap](./roadmap.png)
+![Roadmap](./react-developer-roadmap-progress.png)
 
 ## Resources
 
